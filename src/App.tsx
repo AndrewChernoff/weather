@@ -1,5 +1,4 @@
 import React, { ChangeEvent, useEffect, useState } from "react";
-import logo from "./logo.svg";
 import "./App.css";
 import Weather from "./Weather/Weather";
 import { getWeather } from "./API/api";
